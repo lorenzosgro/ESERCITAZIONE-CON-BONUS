@@ -1,0 +1,10 @@
+*
+!rectangle.cpp
+!rectangle.h
+!rhombus.cpp
+!rhombus.h
+!right_trapezoid.cpp
+!right_trapezoid.h
+!polygon.cpp
+!poligon.h
+!main.cpp
